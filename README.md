@@ -13,7 +13,7 @@ y este proyecto se adhiere a [Semantic Versioning](http://semver.org/).
   - **Configuración del Sistema:** La configuración del entorno se ha actualizado para soportar PostgreSQL.
   - **NOTA:** Este cambio puede requerir ajustes adicionales en entornos personalizados de los clientes y una breve ventana de mantenimiento para la migración de datos.
 
-## [1.1.1] - 2024-07-02
+## [1.1.0] - 2024-07-02
 ### Added
 - **Nueva opción de lista de deseos para el usuario registrado**
   - Se añadió una funcionalidad que permite a los usuarios registrados crear y gestionar una lista de deseos.
